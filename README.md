@@ -1,5 +1,7 @@
 PRACTICA DCA
 
+repo : https://github.com/albertoml/dca
+
 Alias locales creados:
 co = checkout
 ci = commit
