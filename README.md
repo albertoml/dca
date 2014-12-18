@@ -47,5 +47,6 @@ MacBook-Air-de-Alberto:practica10Git Alberto$
 
 Cambiamos el hook para que solo mire si el ultimo commit comienza por WIP
 si es asi no hace push.
+
 Si el ultimo commit no empieza por WIP permite hacer push.
 
