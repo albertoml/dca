@@ -37,4 +37,13 @@ MacBook-Air-de-Alberto:practica10Git Alberto$
 
 Hooks:
 renombrado archivo pre-push.sample a pre-push
+-- Este hook prohibe hacer push commits que comiencen por WIP
+-- Hacemos un commit cuyo mensaje es "WIP hooks prueba"
+-- Resultado del hook:
+MacBook-Air-de-Alberto:practica10Git Alberto$ git push origin master
+Found WIP commit in refs/heads/master, not pushing
+error: failed to push some refs to 'git@github.com:albertoml/dca.git'
+MacBook-Air-de-Alberto:practica10Git Alberto$ 
+
+
 
