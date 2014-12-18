@@ -34,3 +34,7 @@ fallo en el codigo, div sin cerrar
 
 :100644 100644 77171041bc8e1d212f1de95cc381f74b0be5aed9 b33ae425131602d38e34282ea7fdc0afdb044c46 M	practica.html
 MacBook-Air-de-Alberto:practica10Git Alberto$ 
+
+Hooks:
+renombrado archivo pre-push.sample a pre-push
+
